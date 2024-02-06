@@ -1,0 +1,10 @@
+@api = http://localhost:3000
+
+###
+GET  {{api}}/basic
+
+###
+GET  {{api}}/const-config
+
+###
+GET  {{api}}/validation-config
